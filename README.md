@@ -1,12 +1,13 @@
 # OCR model for bypass Captcha
 
+Captcha 데이터를 학습한 OCR 모델을 파이썬 Selenium에 실 적용시킨 프로젝트 입니다.
+
 이 프로젝트는 TensorFlow를 사용하여 구현된 Optical Character Recognition (OCR) 모델입니다.
 주로 캡챠 이미지 데이터를 학습하여 자동으로 텍스트를 인식하고 입력하는데 사용됩니다. 모델은 CNNs, RNNs 및 CTC 손실을 결합하여 구현되었습니다.
 
-Captcha 데이터를 학습한 OCR 모델을 파이썬 Selenium에 실 적용시킨 프로젝트 입니다.
 
 
-### OCR model link
+## OCR model link
 OCR 모델은 하단의 colab 링크에 있습니다.
 
 https://colab.research.google.com/drive/1cciryDMO2ptrcU2TP1mDsJb3MCc9Kx2m?usp=drive_link
@@ -88,3 +89,4 @@ for file in invalid_files:
 ```
 * 2captcha의 적중률은 높은편이지만 가끔씩 자릿수가 부족하다거나 오답이 나올때가 있습니다.
 * filtering.py 는 파일명이 6자리 미만이거나 숫자가 아닌 문자열이 있을경우 파일명을 다시 1부터 설정하여 저장해줍니다.
+* 그리고 다시 2captcha api로 라벨링 반복
