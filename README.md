@@ -14,6 +14,10 @@ https://colab.research.google.com/drive/1cciryDMO2ptrcU2TP1mDsJb3MCc9Kx2m?usp=dr
 * 구글 드라이브에 Captcha 데이터 약 1000개를 저장 후 위 colab 코드와 연동하여 훈련을 시킵니다.
 * 데이터의 파일명에 정답을 기입하는 라벨링 작업 필요
 
+## Test Result
+
+![스크린샷 2024-01-10 061702](https://github.com/DongSeonJin/OCR_model_for_captcha/assets/129161266/227dac8c-5102-4267-a1a2-ca6d26bf3fc4)
+
 
 
 ### 약 1000개의 데이터를 수집하고서 일일이 손으로 힘들게 라벨링을 하면 많이 힘들겠죠?
