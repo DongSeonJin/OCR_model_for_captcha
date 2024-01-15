@@ -16,7 +16,7 @@ https://colab.research.google.com/drive/1cciryDMO2ptrcU2TP1mDsJb3MCc9Kx2m?usp=dr
 
 ## Test Result
 
-![스크린샷 2024-01-10 061702](https://github.com/DongSeonJin/OCR_model_for_captcha/assets/129161266/227dac8c-5102-4267-a1a2-ca6d26bf3fc4)
+![스크린샷 2024-01-10 061702](https://colab.research.google.com/drive/1cciryDMO2ptrcU2TP1mDsJb3MCc9Kx2m?usp=drive_link)
 
 
 
